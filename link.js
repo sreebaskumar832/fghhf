@@ -1,1 +1,2 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=&redir_token=QUFFLUhqazNpTE03LVl1TDBwVXJic2s5Ry1Za1c1NXdKUXxBQ3Jtc0tsUGdoWHZoNmxqQ1ZXWktnVzNlT3dkNmpzUnp0RDlmTDN1eTJfZXVCTG1IYXJfQzlLV2tfYTZoNU1KOUhOcFZBNXdTcFM1MWY5c2h2RGRLTm9qYWtGMHRXVFFRWENZZVk0U1pBWVI0cjVaamRkb0RpZw&q=http%3A%2F%2Fmwamgz.palatlaldate.com%3Futm_source%3Dda57dc555e50572d&html_redirect=1 ";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbkNTLXVDalgxaERjSllkYk9WZjIwQU90TzB4Z3xBQ3Jtc0tsalppdUVQbTU3Ui1EWmZ1eGgycXBrd01fNERfWFREb3N5UFRHcmpITV92UTROby0ycEZKeW5ndEVmT3MtUXZIZlJHYmptaG1xYkxJYVZWWXY4MVAtbFFXT3lTQ2ZlUnBueDI3UllKUWpuOFVIdzZhcw&q=https%3A%2F%2Fopeninapp.co%2Fbnktm&html_redirect=1 ";
+
